@@ -16,6 +16,6 @@
 
 Пиши удобным тебе способом =)
 
-- Tg: https://t.me/joinchat/kicumkicum
+- Tg: @kicumkicum
 - Mail: kicumkicum@gmail.com
 - Issue: https://github.com/kicumkicum/kicumkicum/issues
