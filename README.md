@@ -19,3 +19,7 @@
 - Tg: https://t.me/kicumkicum
 - Mail: kicumkicum@gmail.com
 - Issue: https://github.com/kicumkicum/kicumkicum/issues
+
+---
+
+Свободных мест осталось: 2
