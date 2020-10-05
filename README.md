@@ -20,6 +20,8 @@
 - Mail: kicumkicum@gmail.com
 - Issue: https://github.com/kicumkicum/kicumkicum/issues
 
+Или просто нажми [сюда](https://forms.gle/C43ArKRTtFHFh7XY7).
+
 ---
 
 Свободных мест осталось: **3**
