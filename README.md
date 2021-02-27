@@ -20,7 +20,7 @@
 - Mail: kicumkicum@gmail.com
 - Issue: https://github.com/kicumkicum/kicumkicum/issues
 
-Если ты не можешь решиться написать первым, то просто оставь контакты [здесь](https://forms.gle/C43ArKRTtFHFh7XY7) и я сам свяжусь с тобой и расскажу всё подробнее.
+Если тебе интересен вопрос стоимости, то просто оставь контакты [здесь](https://forms.gle/C43ArKRTtFHFh7XY7) и я сам свяжусь с тобой и расскажу всё подробнее.
 
 ---
 
