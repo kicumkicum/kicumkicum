@@ -22,7 +22,7 @@
 - Mail: kicumkicum@gmail.com
 - Issue: https://github.com/kicumkicum/kicumkicum/issues
 
-Или ты можешь оставь контакты [здесь](https://forms.gle/C43ArKRTtFHFh7XY7) и я сам свяжусь с тобой и расскажу всё подробнее.
+Или ты можешь оставить контакты [здесь](https://forms.gle/C43ArKRTtFHFh7XY7) и я сам свяжусь с тобой и расскажу всё подробнее.
 
 ---
 
