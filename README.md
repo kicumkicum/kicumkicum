@@ -1,6 +1,6 @@
 # bio
 
-Меня зовут Олег Акинин и я разработчик веб приложений. У меня большой опыт разработки, наставничества и даже преподавания. Я разрабатывал веб-приложения для малопроизводительных платформ в [@interfaced](https://interfaced.tv), [@spbtv](https://ru.spbtv.com), [@okko](https://okko.tv), [@siemens](https://siemens.com) и не понаслышке знаю, что такое оптимизация. Создавал обучающие курсы, а в рамках [@htmlacademy](https://htmlacademy.ru) и [@onebootcamp](https://m.facebook.com/onebootcamp/) прочитал более 150 часов лекций.
+Меня зовут Олег Акинин и я разработчик веб приложений. У меня большой опыт разработки, наставничества и даже преподавания. Я разрабатывал веб-приложения для малопроизводительных платформ в [@interfaced](https://interfaced.tv), [@spbtv](https://ru.spbtv.com), [@okko](https://okko.tv), [@siemens](https://siemens.com) и не понаслышке знаю, что такое оптимизация. Создавал обучающие курсв для [@htmlacademy](https://htmlacademy.ru) и [@onebootcamp](https://m.facebook.com/onebootcamp/) и прочитал более 150 часов лекций.
 
 ## Наставничество
 
